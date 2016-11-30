@@ -1,6 +1,6 @@
 {
   "name": "Arquitectura de Software en la Práctica",
   "tagline": "",
-  "body": "# Links\r\n\r\n- http://slides.com/charly-vega/arqsoftpr-intro\r\n- https://s3.amazonaws.com/charly-share/EngineeringSaaS_slides+(mod).pdf\r\n- https://12factor.net\r\n- http://slides.com/charly-vega/microservices\r\n- http://martinfowler.com/articles/microservices.html\r\n- http://martinfowler.com/bliki/MonolithFirst.html\r\n- https://www.nginx.com/blog/introduction-to-microservices/\r\n- https://s3.amazonaws.com/charly-share/Codeship_Why_Containers_and_Docker_are_the_Future.pdf\r\n",
+  "body": "# Parcial\r\n\r\n## Links\r\n\r\n- [Slides de introducción](http://slides.com/charly-vega/arqsoftpr-intro)\r\n- [Resumen SaaS & _agile_](https://s3.amazonaws.com/charly-share/EngineeringSaaS_slides+\\(mod\\).pdf)\r\n- [_12factor app_](https://12factor.net)\r\n- [Slides de microservicios](http://slides.com/charly-vega/microservices)\r\n- [Martin Fowler: _Microservices_](http://martinfowler.com/articles/microservices.html)\r\n- [Martin Fowler: _Monolith First_](http://martinfowler.com/bliki/MonolithFirst.html)\r\n- [nginx: _Introduction to microservices_](https://www.nginx.com/blog/introduction-to-microservices/)\r\n- [Codeship: _Why Containers are the Future_](https://s3.amazonaws.com/charly-share/Codeship_Why_Containers_and_Docker_are_the_Future.pdf)\r\n\r\n## Bibliografía\r\n\r\n- Engineering Software as a Service (saasbook.info), Cap. 1 y 2.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
